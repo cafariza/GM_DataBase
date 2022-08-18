@@ -7,16 +7,18 @@ Filename_1        : Filename of the time history data file in direction 1
 
 dirLocation       : Link to the appropriate ground motion simulation results page 
 
-Periods           : Periods at which spectral accelerations have been computed and stored in the workspace 
+Periods           : Periods at which spectral accelerations have been computed and stored in the workspace (s)
 
-Sa_1              : Horizontal Spectral acceleration in direction 1 (Body waves: Total waves-Extracted wave) 
+Sa_1              : Horizontal Spectral acceleration in direction 1 (Body waves: Total waves-Extracted wave) (cm/s^2)
 
-Sa_bw              : Spectral acceleration of body waves 
+Sa_bw              : Spectral acceleration of body waves (cm/s^2)
 
-depth             : Depth distance to the ruptured area 
+Sa_tw              : Spectral acceleration of body waves (cm/s^2)
 
-magnitude         : Magnitude 
+depth             : Depth distance to the ruptured area (m)
 
-soil_Vs30         : Average Vs30 value 
+magnitude         : Magnitude Mw
+
+soil_Vs30         : Average Vs30 value (m/s)
  
  
